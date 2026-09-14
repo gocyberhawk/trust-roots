@@ -1,0 +1,11 @@
+{
+  "service": "CyberHawk",
+  "localDate": "2026-09-14",
+  "root": "abc",
+  "companies": 1,
+  "postedAt": "2026-09-14T05:00:00.000Z",
+  "signature": "sig",
+  "algorithm": "Ed25519",
+  "signedBytes": "service=CyberHawk\ndate=2026-09-14",
+  "note": "test"
+}
