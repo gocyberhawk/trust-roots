@@ -1,0 +1,11 @@
+{
+  "service": "CyberHawk",
+  "localDate": "2026-09-15",
+  "root": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "companies": 0,
+  "postedAt": "2026-09-15T12:01:22.817Z",
+  "signature": "MGWmOESdF4vjyv6LHMiNFPkPrEkgd/qMfqUpxFQdaRYoq+nvhWP5Mlj8o7x6lAnDpjE6jYueou9YbjHOJE/ZDg==",
+  "algorithm": "Ed25519",
+  "signedBytes": "service=CyberHawk\ndate=2026-09-15\nroot=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\ncompanies=0\nposted=2026-09-15T12:01:22.817Z",
+  "note": "Recompute the root from the inputs published at the service's /trust-root.json and compare it with `root` above. This file's commit time is the anchor: the service cannot change it after the fact."
+}
